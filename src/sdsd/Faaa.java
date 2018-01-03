@@ -2,6 +2,9 @@ package sdsd;
 
 public class Faaa {
 
+  public void sss(String a){
+  }
+  
   public void aaa(String a){
   }
   
