@@ -2,9 +2,9 @@ package sdsd;
 
 public class Faaa {
 
-  public void aaa(){
+  public void aaa(String a){
   }
   
-  public void bbb(){
+  public void bbb(String b){
   }
 }
