@@ -10,4 +10,7 @@ public class Faaa {
   
   public void ccc(){
   }
+  
+  public void ddd(){
+  }
 }
